@@ -48,4 +48,4 @@ Parameter and sample description files are provided in the repository root direc
 
 Notes
 
-Large model files are managed using Git LFS.
+Large model files and HIS-element archives are tracked with Git LFS. To download the actual files rather than LFS pointer files, please install Git LFS, clone the repository, and run git lfs pull
