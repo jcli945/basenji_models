@@ -1,6 +1,6 @@
 # HMM-identified HIS-elements
 
-This directory contains metadata and file manifests for HMM-identified HIS-elements across six grass genomes.
+This directory contains metadata and file manifests for HMM-identified HIS-elements across five grass genomes.
 
 Large HIS-element files are provided as GitHub Release assets due to file size considerations.
 
