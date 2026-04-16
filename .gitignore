@@ -1,0 +1,12 @@
+*/train/events.out.tfevents.*
+__pycache__/
+*.pyc
+*.pyo
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~

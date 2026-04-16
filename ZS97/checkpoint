@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/xieweiboXWB/data/ZS_MH_NIP/ZS97_no_scale_train/model_best.tf"
+all_model_checkpoint_paths: "/home/xieweiboXWB/data/ZS_MH_NIP/ZS97_no_scale_train/model_best.tf"

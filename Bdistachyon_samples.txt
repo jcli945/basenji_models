@@ -1,0 +1,10 @@
+index	identifier	file	description
+1	Bdistachyon_flag_leaf_1_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_flag_leaf_1_rmdup_q30.bw
+2	Bdistachyon_flag_leaf_2_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_flag_leaf_2_rmdup_q30.bw
+3	Bdistachyon_flower_1_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_flower_1_rmdup_q30.bw
+4	Bdistachyon_flower_2_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_flower_2_rmdup_q30.bw
+5	Bdistachyon_panicle_1_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_panicle_1_rmdup_q30.bw
+6	Bdistachyon_root_1_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_root_1_rmdup_q30.bw
+7	Bdistachyon_root_2_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_root_2_rmdup_q30.bw
+8	Bdistachyon_young_leaf_1_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_young_leaf_1_rmdup_q30.bw
+9	Bdistachyon_young_leaf_2_rmdup_q30.bw	/home/xieweibo/scratch/BD/bw_files/Bdistachyon_young_leaf_2_rmdup_q30.bw
