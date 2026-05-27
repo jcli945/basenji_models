@@ -32,6 +32,7 @@ Sitalica/
 Sorghum/
 Zmays/
 ZS97/
+```
 
 Each species directory contains the checkpoint files for the best trained model.
 
