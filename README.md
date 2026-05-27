@@ -49,3 +49,11 @@ Parameter and sample description files are provided in the repository root direc
 Notes
 
 Large model files and HIS-element archives are tracked with Git LFS. To download the actual files rather than LFS pointer files, please install Git LFS, clone the repository, and run git lfs pull
+
+## HIS-element assets
+
+Genome-wide HIS-element annotations for five grass species are available in the `HIS-element_assets` directory:  
+[HIS-element_assets](https://github.com/jcli945/basenji_models/tree/main/HIS-element_assets)
+
+This directory contains tissue-level BED files of HIS-elements for each species, together with a detailed usage guide.  
+For rice, please note that the HIS-element BED files use the **MSU7.0** coordinate system.
